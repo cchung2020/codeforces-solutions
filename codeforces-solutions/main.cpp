@@ -1,9 +1,5 @@
-#include <iostream>
-#include <print>
-
-using namespace std;
-
+#include "practice/800_71a.h";
 
 int main() {
-
+	solve_71a();
 }

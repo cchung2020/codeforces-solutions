@@ -21,9 +21,15 @@
     <ClCompile Include="practice\800_4a.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="practice\800_71a.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="practice\800_4a.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="practice\800_71a.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

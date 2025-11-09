@@ -126,9 +126,11 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="practice\800_4a.cpp" />
+    <ClCompile Include="practice\800_71a.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="practice\800_4a.h" />
+    <ClInclude Include="practice\800_71a.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt" />

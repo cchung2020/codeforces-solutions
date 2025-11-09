@@ -1,3 +1,5 @@
+#include "800_231a.h"
+
 #include <print>
 #include <string>
 #include <iostream>
@@ -21,8 +23,3 @@ void solve_231a() {
 
 	println("{}", problems);
 }
-
-int main() {
-	solve_231a();
-}
-

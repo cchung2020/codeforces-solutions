@@ -1,6 +1,9 @@
-#include "practice/800_4a.h"
+#include <print>
+
+#include "practice/800_158a.h"
+
+using namespace std;
 
 int main() {
-	solve_4a();
+	solve_158a();
 }
-

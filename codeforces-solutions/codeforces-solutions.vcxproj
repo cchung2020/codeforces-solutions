@@ -127,6 +127,7 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="800_281a.h" />
     <ClInclude Include="800_339a.h" />
     <ClInclude Include="practice\800_112a.h" />
     <ClInclude Include="practice\800_158a.h" />

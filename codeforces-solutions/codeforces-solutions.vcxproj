@@ -129,7 +129,9 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="1000_1a.h" />
-    <ClInclude Include="1000_617a.h" />
+    <ClInclude Include="1000_58a.h" />
+    <ClInclude Include="1000_69a.h" />
+    <ClInclude Include="800_617a.h" />
     <ClInclude Include="800_281a.h" />
     <ClInclude Include="800_339a.h" />
     <ClInclude Include="800_791a.h" />

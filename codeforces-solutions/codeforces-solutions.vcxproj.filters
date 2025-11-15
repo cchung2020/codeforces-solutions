@@ -62,7 +62,13 @@
     <ClInclude Include="1000_1a.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="1000_617a.h">
+    <ClInclude Include="800_617a.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="1000_69a.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="1000_58a.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -124,6 +124,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="1000_118a.h" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>

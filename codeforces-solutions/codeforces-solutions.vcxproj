@@ -124,27 +124,37 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="1000_118a.h" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="1000_122a.h" />
     <ClInclude Include="1000_1a.h" />
+    <ClInclude Include="1000_479a.h" />
     <ClInclude Include="1000_58a.h" />
     <ClInclude Include="1000_69a.h" />
     <ClInclude Include="800_617a.h" />
     <ClInclude Include="800_281a.h" />
     <ClInclude Include="800_339a.h" />
     <ClInclude Include="800_791a.h" />
+    <ClInclude Include="practice\1000_118a.h" />
+    <ClInclude Include="practice\1000_122a.h" />
+    <ClInclude Include="practice\1000_1a.h" />
+    <ClInclude Include="practice\1000_479a.h" />
+    <ClInclude Include="practice\1000_58a.h" />
+    <ClInclude Include="practice\1000_69a.h" />
     <ClInclude Include="practice\800_112a.h" />
     <ClInclude Include="practice\800_158a.h" />
     <ClInclude Include="practice\800_231a.h" />
     <ClInclude Include="practice\800_236a.h" />
     <ClInclude Include="practice\800_263a.h" />
+    <ClInclude Include="practice\800_281a.h" />
     <ClInclude Include="practice\800_282a.h" />
+    <ClInclude Include="practice\800_339a.h" />
     <ClInclude Include="practice\800_4a.h" />
     <ClInclude Include="practice\800_50a.h" />
+    <ClInclude Include="practice\800_617a.h" />
     <ClInclude Include="practice\800_71a.h" />
+    <ClInclude Include="practice\800_791a.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt" />

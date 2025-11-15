@@ -53,6 +53,9 @@
     <ClInclude Include="800_281a.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="800_791a.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

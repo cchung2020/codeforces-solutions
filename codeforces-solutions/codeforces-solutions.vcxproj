@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClInclude Include="800_281a.h" />
     <ClInclude Include="800_339a.h" />
+    <ClInclude Include="800_791a.h" />
     <ClInclude Include="practice\800_112a.h" />
     <ClInclude Include="practice\800_158a.h" />
     <ClInclude Include="practice\800_231a.h" />

@@ -62,6 +62,9 @@
     <ClInclude Include="1000_1a.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="1000_617a.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

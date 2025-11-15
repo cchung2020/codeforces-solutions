@@ -71,6 +71,9 @@
     <ClInclude Include="1000_58a.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="1000_122a.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

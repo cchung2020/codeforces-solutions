@@ -32,6 +32,24 @@
     <ClInclude Include="practice\800_282a.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="practice\800_50a.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="practice\800_112a.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="practice\800_158a.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="practice\800_236a.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="practice\800_263a.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="800_339a.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

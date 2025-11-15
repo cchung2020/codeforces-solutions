@@ -127,9 +127,15 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="800_339a.h" />
+    <ClInclude Include="practice\800_112a.h" />
+    <ClInclude Include="practice\800_158a.h" />
     <ClInclude Include="practice\800_231a.h" />
+    <ClInclude Include="practice\800_236a.h" />
+    <ClInclude Include="practice\800_263a.h" />
     <ClInclude Include="practice\800_282a.h" />
     <ClInclude Include="practice\800_4a.h" />
+    <ClInclude Include="practice\800_50a.h" />
     <ClInclude Include="practice\800_71a.h" />
   </ItemGroup>
   <ItemGroup>

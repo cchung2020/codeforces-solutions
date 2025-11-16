@@ -104,6 +104,9 @@
     <ClInclude Include="practice\1000_479a.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="1000_131a.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
